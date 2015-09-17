@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTools", "DomainTools\DomainTools.csproj", "{352A533A-AA80-405F-A614-9AEFA3E93EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTools.Demo", "DomainTools.Demo\DomainTools.Demo.csproj", "{51493B96-AE3A-483F-93F2-A3AB057D24A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352A533A-AA80-405F-A614-9AEFA3E93EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A533A-AA80-405F-A614-9AEFA3E93EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A533A-AA80-405F-A614-9AEFA3E93EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A533A-AA80-405F-A614-9AEFA3E93EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51493B96-AE3A-483F-93F2-A3AB057D24A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51493B96-AE3A-483F-93F2-A3AB057D24A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51493B96-AE3A-483F-93F2-A3AB057D24A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51493B96-AE3A-483F-93F2-A3AB057D24A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
